@@ -1,10 +1,12 @@
+import Home from "./pages/Home"
 
 function App() {
-  
 
   return (
     <>
-      <div className="bg-black text-white">This is App.jsx</div>
+      <div className=" ">
+        <Home />
+      </div>
     </>
   )
 }
