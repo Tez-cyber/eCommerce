@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className=" ">
+      <div className="font-urbanist">
         <Home />
       </div>
     </>
